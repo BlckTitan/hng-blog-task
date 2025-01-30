@@ -7,3 +7,5 @@ Write a blog post on:
 - How HNG will help you grow in the field.
 - Your goals for the internship and how you plan to achieve them.
 - Include and properly cite all reference links listed below.
+
+live link https://blcktitan.github.io/hng-blog-task/
